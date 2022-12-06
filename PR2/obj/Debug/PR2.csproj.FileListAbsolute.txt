@@ -1,0 +1,41 @@
+C:\Users\chc20\source\repos\PR2\bin\Debug\PR2.exe.config
+C:\Users\chc20\source\repos\PR2\bin\Debug\PR2.exe
+C:\Users\chc20\source\repos\PR2\bin\Debug\PR2.pdb
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.csproj.AssemblyReference.cache
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.csproj.SuggestedBindingRedirects.cache
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.Form1.resources
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.Properties.Resources.resources
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.csproj.GenerateResource.cache
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.csproj.CoreCompileInputs.cache
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.exe
+C:\Users\chc20\source\repos\PR2\obj\Debug\PR2.pdb
+C:\Users\chc20\Desktop\PR2\bin\Debug\PR2.exe.config
+C:\Users\chc20\Desktop\PR2\bin\Debug\PR2.exe
+C:\Users\chc20\Desktop\PR2\bin\Debug\PR2.pdb
+C:\Users\chc20\Desktop\PR2\bin\Debug\MyLab.dll
+C:\Users\chc20\Desktop\PR2\bin\Debug\MyLab.pdb
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.csproj.AssemblyReference.cache
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.csproj.SuggestedBindingRedirects.cache
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.Form1.resources
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.Properties.Resources.resources
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.csproj.GenerateResource.cache
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.csproj.CoreCompileInputs.cache
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.csproj.CopyComplete
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.exe
+C:\Users\chc20\Desktop\PR2\obj\Debug\PR2.pdb
+C:\Users\chc20\Desktop\MyLab (2)\PR2\bin\Debug\PR2.exe.config
+C:\Users\chc20\Desktop\MyLab (2)\PR2\bin\Debug\PR2.exe
+C:\Users\chc20\Desktop\MyLab (2)\PR2\bin\Debug\PR2.pdb
+C:\Users\chc20\Desktop\MyLab (2)\PR2\bin\Debug\MyLab.dll
+C:\Users\chc20\Desktop\MyLab (2)\PR2\bin\Debug\MyLab.pdb
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.csproj.AssemblyReference.cache
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.csproj.SuggestedBindingRedirects.cache
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.Form1.resources
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.Form2.resources
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.Properties.Resources.resources
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.csproj.GenerateResource.cache
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.csproj.CoreCompileInputs.cache
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.csproj.CopyComplete
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.exe
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.pdb
+C:\Users\chc20\Desktop\MyLab (2)\PR2\obj\Debug\PR2.Form3.resources

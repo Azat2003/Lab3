@@ -1,0 +1,14 @@
+C:\Users\chc20\source\repos\MyLab\obj\Debug\MyLab.csproj.AssemblyReference.cache
+C:\Users\chc20\source\repos\MyLab\obj\Debug\MyLab.csproj.CoreCompileInputs.cache
+C:\Users\chc20\Desktop\MyLab\bin\Debug\MyLab.dll
+C:\Users\chc20\Desktop\MyLab\bin\Debug\MyLab.pdb
+C:\Users\chc20\Desktop\MyLab\obj\Debug\MyLab.csproj.AssemblyReference.cache
+C:\Users\chc20\Desktop\MyLab\obj\Debug\MyLab.csproj.CoreCompileInputs.cache
+C:\Users\chc20\Desktop\MyLab\obj\Debug\MyLab.dll
+C:\Users\chc20\Desktop\MyLab\obj\Debug\MyLab.pdb
+C:\Users\chc20\Desktop\MyLab (2)\MyLab\bin\Debug\MyLab.dll
+C:\Users\chc20\Desktop\MyLab (2)\MyLab\bin\Debug\MyLab.pdb
+C:\Users\chc20\Desktop\MyLab (2)\MyLab\obj\Debug\MyLab.csproj.AssemblyReference.cache
+C:\Users\chc20\Desktop\MyLab (2)\MyLab\obj\Debug\MyLab.csproj.CoreCompileInputs.cache
+C:\Users\chc20\Desktop\MyLab (2)\MyLab\obj\Debug\MyLab.dll
+C:\Users\chc20\Desktop\MyLab (2)\MyLab\obj\Debug\MyLab.pdb
